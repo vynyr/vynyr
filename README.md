@@ -1,1 +1,1 @@
-<h2 align="center"> text </h2>
+<p align="center" style="font-size:40px;">text</p>
